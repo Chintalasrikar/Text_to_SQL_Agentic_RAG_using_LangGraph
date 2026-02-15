@@ -1,0 +1,15 @@
+# Requirements for agentic_rag.py
+# Install with: python -m pip install -r requirements.txt
+
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+langchain-google-genai
+langgraph
+langsmith
+SQLAlchemy
+PyMySQL
+
+# Optional / common helpers
+requests
