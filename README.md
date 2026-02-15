@@ -120,6 +120,3 @@ Built with: `langchain`, `langgraph`, `langchain-groq` (Groq LLM), `langsmith`, 
 
 ---
 
-## License
-
-No license specified. Add a `LICENSE` file if you plan to publish or share this project publicly.
